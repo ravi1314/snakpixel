@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645443397615",
+    "project_id": "snakpixel-779f6",
+    "storage_bucket": "snakpixel-779f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645443397615:android:22b306f9c57d5a6289f81a",
+        "android_client_info": {
+          "package_name": "com.example.snakpix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-T4ltD1Nc25cJ5Z5dVBCUMt34NWxTcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
